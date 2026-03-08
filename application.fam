@@ -1,0 +1,11 @@
+App(
+    appid="lucky_wheel",
+    name="Lucky Wheel",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="lucky_wheel_app",
+    requires=["gui", "storage", "notification", "dolphin"],
+    stack_size=2 * 1024,
+    fap_category="Games",
+    fap_icon="lucky_wheel_10px.png",
+    fap_icon_assets=".",
+)
