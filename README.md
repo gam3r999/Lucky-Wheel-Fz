@@ -20,7 +20,6 @@
 <br>
 
 > *Spin once a day. Win coins, XP, or level up your dolphin.*
-> *Land on 💀 and wait 24 hours. No cheating. (Unless you know the codes...)*
 
 <br>
 
