@@ -29,7 +29,7 @@
 
 ## 🎰 What Is This?
 
-**Lucky Wheel** is a daily spin game for the Flipper Zero. Every 24 hours you get one spin on an 8-segment prize wheel. Win coins, dolphin XP, and rare level-ups — or land on `LOCKED 💀` and come back tomorrow.
+**Lucky Wheel** is a daily spin game for the Flipper Zero. Every 24 hours you get one spin on an 8-segment prize wheel. Win coins, dolphin XP, and rare level-ups — or land on `Nonthing 💀` and come back tomorrow.
 
 Built in C for **Unleashed firmware** with a coin economy, background shop, cheat codes, and hardware RTC anti-cheat so you can't cheese the timer by changing the clock.
 
